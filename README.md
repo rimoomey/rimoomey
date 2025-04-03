@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **rimoomey/rimoomey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Howdy 🐸
+I'm Rimon. I'm an experienced full-stack developer 🖥️ who's been in the biz for a couple years now 🧓.
+
+I currently like to code in `PHP` with the help of `Laravel`, but I've worked in `Ruby on Rails` 💎, `C#`, and `Java` ☕. You'll find me most happily writing code in the `backend` 🤓, but I know my way around the whole stack.
+
+Certified `Amazon Web Services (AWS) Developer` ☁️.
+
+Recovering math enthusiast 📈
+
+📫 How to reach me: rimon.moomey@gmail.com or [LinkedIn](https://www.linkedin.com/in/rimon-codes/)
